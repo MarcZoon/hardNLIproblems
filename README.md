@@ -1,2 +1,1 @@
-# hardNLIproblems
-Data for Hard problems for the Natural Language Inference task
+Data will be available shortly.
